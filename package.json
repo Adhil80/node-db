@@ -1,0 +1,14 @@
+{
+  "name": "nodebase",
+  "version": "1.0.0",
+  "description": "nodejs Database",
+  "main": "Database.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "https://github.com/adhil80",
+  "license": "MIT",
+  "dependencies": {
+    "cryptr": "^6.0.2"
+  }
+}
